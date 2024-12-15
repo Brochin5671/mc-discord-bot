@@ -4,7 +4,7 @@
 
 A simple Python program to deploy your Discord bot for your Minecraft **Java** server on your Discord server(s). Has the ability to display the state of the server alongside other information using the package _[mcstatus](https://pypi.org/project/mcstatus/)_. Can also perform operations in Discord servers like purging messages.
 
-Why I built this, see [Why?](#Why?)
+Why I built this, see [Why?](#Why)
 
 More features are planned, see [Planned Features](#Planned-Features)
 
