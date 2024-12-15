@@ -1,6 +1,6 @@
 # Minecraft Server Discord Bot
 
-<small>By Maxim Brochin</small>
+**By Maxim Brochin**
 
 A simple Python program to deploy your Discord bot for your Minecraft **Java** server on your Discord server(s). Has the ability to display the state of the server alongside other information using the package _[mcstatus](https://pypi.org/project/mcstatus/)_. Can also perform operations in Discord servers like purging messages.
 
@@ -12,7 +12,7 @@ More features are planned, see [Planned Features](#Planned-Features)
 
 ### Commands
 
-<small>These are all slash commands, prefixed with a `/`.</small>
+**These are all slash commands, prefixed with a `/`.**
 
 #### Owner
 
@@ -52,12 +52,12 @@ Ensure that you are at least using **Python v3.11** and a Linux environment for 
 
 ## Setup
 
-<small>This assumes you are using a Linux environment.</small>
+**This assumes you are using a Linux environment.**
 
 Clone the repository.
 
 ```bash
-git clone && cd
+git clone "https://github.com/Brochin5671/mc-discord-bot.git" && cd "mc-discord-bot"
 ```
 
 Install _virtualenv_ if you haven't already.
