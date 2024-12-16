@@ -101,6 +101,12 @@ ADMIN_ROLE=""
 DATA_PATH=""
 ```
 
+Run it.
+
+```bash
+python<version> main.py
+```
+
 ## Why?
 
 I wanted to expand on my Python understanding, reinforcing and learning concepts, building a system, and exploring what's possible. I was also killing some time by playing Minecraft: Java Edition with friends, so I thought this would be a great opportunity to demonstrate my skills and have others use the bot I built.
