@@ -10,7 +10,7 @@ from src import Bot
 load_dotenv()
 BOT_TOKEN = os.getenv('BOT_TOKEN')
 # Not to create global commands so they can be updated instantly
-GUILD_IDS = [int(x) for x in os.getenv('GUILD_IDS').split(',')]
+GUILD_IDS = [int(x) for x in os.getenv('GUILD_IDS').split(',') if x]
 
 
 # Create bot
